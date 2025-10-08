@@ -1,0 +1,7 @@
+echo "#rhythm-hand-game-" >> README.md 
+git init 
+git add README.md 
+git commit -m "最初のコミット" 
+git Branch -M main 
+git Remote add Origin https://github.com/AAUAU6/rhythm-hand-game-.git
+ git Push -u Origin main
